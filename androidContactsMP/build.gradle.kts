@@ -5,10 +5,10 @@ plugins {
 }
 
 android {
-    namespace = "com.plcoding.contactscomposemultiplatform.android"
+    namespace = "com.thomasphillips3.contactscomposemultiplatform.android"
     compileSdk = 33
     defaultConfig {
-        applicationId = "com.plcoding.contactscomposemultiplatform.android"
+        applicationId = "com.thomasphillips3.contactscomposemultiplatform.android"
         minSdk = 24
         targetSdk = 33
         versionCode = 1
